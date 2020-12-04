@@ -58,7 +58,8 @@
 
   "product-quantity": {
     "props": {
-      "displayMode": "logo"
+      "displayMode": "logo",
+      "height": "30"
     }
   },
 
