@@ -28,8 +28,17 @@
   "flex-layout.col#filter": {
     "props": {
       "width": "20%"
-    }
+    },
+    "children": [
+      "filter-navigator.v3"
+    ]
   },
+   "flex-layout.col#search": {
+     "children": [
+       "search-content"
+     ]
+   },
+
   "flex-layout.row#top": {
     "children": [
       "total-products.v2",
