@@ -16,7 +16,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="tab-layout" />
+        <entry key="$PROJECT_DIR$" value="richtextmarkdown" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -30,7 +30,7 @@
     <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Toledo energia" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Grazimaq" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -51,7 +51,7 @@
       <workItem from="1607342674975" duration="1068000" />
       <workItem from="1607371407529" duration="958000" />
       <workItem from="1607429117449" duration="12045000" />
-      <workItem from="1607515182169" duration="5001000" />
+      <workItem from="1607515182169" duration="6021000" />
     </task>
     <task id="LOCAL-00001" summary="Criando página com detalhes dos produtos">
       <created>1606850754774</created>
@@ -242,7 +242,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607519345055</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Explorando o poder do rich text">
+      <created>1607520251736</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1607520251736</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -262,17 +269,17 @@
     <option name="LAST_COMMIT_MESSAGE" value="Explorando o poder do rich text" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="571" y="89" key="CommitChangelistDialog2" timestamp="1607519344494">
+    <state x="571" y="89" key="CommitChangelistDialog2" timestamp="1607520251204">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="571" y="89" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1607519344494" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1607451068183">
+    <state x="571" y="89" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1607520251204" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1607520477336">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1607451068183" />
-    <state x="552" y="240" key="Vcs.Push.Dialog.v2" timestamp="1607519346284">
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1607520477336" />
+    <state x="552" y="240" key="Vcs.Push.Dialog.v2" timestamp="1607520255366">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="240" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607519346284" />
+    <state x="552" y="240" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607520255366" />
   </component>
 </project>
