@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d887a68-fce0-4888-a585-1675d5dcf093" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/store/blocks/search-landing.jsonc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/store/blocks/about-us.jsonc" beforeDir="false" afterPath="$PROJECT_DIR$/store/blocks/about-us.jsonc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/routes.json" beforeDir="false" afterPath="$PROJECT_DIR$/store/routes.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +52,7 @@
       <workItem from="1607342674975" duration="1068000" />
       <workItem from="1607371407529" duration="958000" />
       <workItem from="1607429117449" duration="12045000" />
-      <workItem from="1607515182169" duration="6021000" />
+      <workItem from="1607515182169" duration="7672000" />
     </task>
     <task id="LOCAL-00001" summary="Criando página com detalhes dos produtos">
       <created>1606850754774</created>
@@ -249,7 +250,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607520251736</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Inserindo um Iframe na nossa página institucional">
+      <created>1607524404442</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1607524404442</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -266,20 +274,21 @@
     <MESSAGE value="Criando templates customizados" />
     <MESSAGE value="Layout de abas" />
     <MESSAGE value="Explorando o poder do rich text" />
-    <option name="LAST_COMMIT_MESSAGE" value="Explorando o poder do rich text" />
+    <MESSAGE value="Inserindo um Iframe na nossa página institucional" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inserindo um Iframe na nossa página institucional" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="571" y="89" key="CommitChangelistDialog2" timestamp="1607520251204">
+    <state x="571" y="89" key="CommitChangelistDialog2" timestamp="1607524403932">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="571" y="89" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1607520251204" />
+    <state x="571" y="89" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1607524403932" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1607520477336">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1607520477336" />
-    <state x="552" y="240" key="Vcs.Push.Dialog.v2" timestamp="1607520255366">
+    <state x="552" y="240" key="Vcs.Push.Dialog.v2" timestamp="1607524405707">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="240" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607520255366" />
+    <state x="552" y="240" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607524405707" />
   </component>
 </project>
