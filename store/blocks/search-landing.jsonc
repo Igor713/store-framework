@@ -13,17 +13,14 @@
   },
   "search-result-layout.customQuery": {
     "props": {
-      "minWidth": "100%",
-      "src": "https://jovemgamer.com.br/wp-content/uploads/2019/08/spider-man-goty-edition-770x433.jpg"
-    },
-    "querySchema": {
-      "orderByField": "OrderByReleaseDateDESC",
-      "hideUnavailableItems": true,
-      "maxItemsPerPage": 8,
-      "queryField": "Camera",
-      "mapField": "ft",
-      "skusFilter": "ALL_AVAILABLE"
+      "querySchema": {
+        "orderByField": "OrderByReleaseDateDESC",
+        "hideUnavailableItems": true,
+        "maxItemsPerPage": 8,
+        "queryField": "Camera",
+        "mapField": "ft",
+        "skusFilter": "ALL_AVAILABLE"
+      }
     }
   }
-
 }
