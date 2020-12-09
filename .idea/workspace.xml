@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d887a68-fce0-4888-a585-1675d5dcf093" name="Default Changelist" comment="Explorando o poder do rich text" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="tab-layout" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1l44BzAWFWrgA7PLeG2BImg93Gd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Toledo energia" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="database.main" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d887a68-fce0-4888-a585-1675d5dcf093" name="Default Changelist" comment="" />
+      <created>1606842897568</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606842897568</updated>
+      <workItem from="1606842898662" duration="5676000" />
+      <workItem from="1606913015739" duration="5215000" />
+      <workItem from="1607016515953" duration="622000" />
+      <workItem from="1607106300336" duration="7212000" />
+      <workItem from="1607342674975" duration="1068000" />
+      <workItem from="1607371407529" duration="958000" />
+      <workItem from="1607429117449" duration="12045000" />
+      <workItem from="1607515182169" duration="4147000" />
+    </task>
+    <task id="LOCAL-00001" summary="Criando página com detalhes dos produtos">
+      <created>1606850754774</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606850754774</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Criando página com detalhes dos produtos">
+      <created>1606851385336</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606851385336</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Criando página com detalhes dos produtos">
+      <created>1606851742655</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606851742655</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Galeria lateral">
+      <created>1606930883398</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1606930883398</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Galeria lateral">
+      <created>1606931351129</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1606931351129</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Galeria lateral">
+      <created>1606931496470</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1606931496470</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Calculo de frete">
+      <created>1607107019957</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1607107019957</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Finalizando pdp">
+      <created>1607111230490</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1607111230490</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Finalizando pdp">
+      <created>1607111436957</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1607111436957</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Finalizando pdp">
+      <created>1607111669803</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1607111669803</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Página de busca">
+      <created>1607113314330</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1607113314330</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Ajustando layout da página de busca">
+      <created>1607429858916</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1607429858916</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Ajustando layout da página de busca">
+      <created>1607431183754</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1607431183754</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Ajustando layout da página de busca">
+      <created>1607432055072</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1607432055072</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Ajustando layout da página de busca">
+      <created>1607433255746</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1607433255746</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Ajustando layout da página de busca">
+      <created>1607433305632</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1607433305632</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Ajustando layout da página de busca">
+      <created>1607435765373</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1607435765373</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Estilos globais">
+      <created>1607449306862</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1607449306862</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Estilos globais">
+      <created>1607449426647</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1607449426647</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Estilos globais">
+      <created>1607452486420</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1607452486420</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Criando templates customizados">
+      <created>1607457076398</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1607457076398</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Layout de abas">
+      <created>1607516936834</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1607516936834</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Layout de abas">
+      <created>1607517090475</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1607517090475</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Layout de abas">
+      <created>1607517314519</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1607517314519</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Layout de abas">
+      <created>1607517584100</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1607517584100</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Explorando o poder do rich text">
+      <created>1607518113691</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1607518113691</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Criando página com detalhes dos produtos" />
+    <MESSAGE value="Galeria lateral" />
+    <MESSAGE value="Calculo de frete" />
+    <MESSAGE value="Finalizando pdp" />
+    <MESSAGE value="Página de busca" />
+    <MESSAGE value="Ajustando layout da página de busca" />
+    <MESSAGE value="Estilos globais" />
+    <MESSAGE value="Criando templates customizados" />
+    <MESSAGE value="Layout de abas" />
+    <MESSAGE value="Explorando o poder do rich text" />
+    <option name="LAST_COMMIT_MESSAGE" value="Explorando o poder do rich text" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="571" y="89" key="CommitChangelistDialog2" timestamp="1607519266998">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="571" y="89" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1607519266998" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1607451068183">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1607451068183" />
+    <state x="552" y="240" key="Vcs.Push.Dialog.v2" timestamp="1607518114865">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="240" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607518114865" />
+  </component>
+</project>
