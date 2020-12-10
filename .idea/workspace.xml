@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d887a68-fce0-4888-a585-1675d5dcf093" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/store/blocks/header.jsonc" beforeDir="false" afterPath="$PROJECT_DIR$/store/blocks/header.jsonc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/blocks/menu-items.jsonc" beforeDir="false" afterPath="$PROJECT_DIR$/store/blocks/menu-items.jsonc" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +17,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="landing" />
+        <entry key="$PROJECT_DIR$" value="header" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -50,7 +52,8 @@
       <workItem from="1607342674975" duration="1068000" />
       <workItem from="1607371407529" duration="958000" />
       <workItem from="1607429117449" duration="12045000" />
-      <workItem from="1607515182169" duration="12210000" />
+      <workItem from="1607515182169" duration="14158000" />
+      <workItem from="1607601804173" duration="3047000" />
     </task>
     <task id="LOCAL-00001" summary="Criando página com detalhes dos produtos">
       <created>1606850754774</created>
@@ -283,7 +286,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607540856777</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Construindo uma landing customizada de busca">
+      <created>1607540958462</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1607540958462</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -305,17 +315,17 @@
     <option name="LAST_COMMIT_MESSAGE" value="Construindo uma landing customizada de busca" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="571" y="89" key="CommitChangelistDialog2" timestamp="1607540856270">
+    <state x="571" y="89" key="CommitChangelistDialog2" timestamp="1607540957979">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="571" y="89" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1607540856270" />
+    <state x="571" y="89" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1607540957979" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1607520477336">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1607520477336" />
-    <state x="552" y="240" key="Vcs.Push.Dialog.v2" timestamp="1607540858035">
+    <state x="552" y="240" key="Vcs.Push.Dialog.v2" timestamp="1607540959547">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="240" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607540858035" />
+    <state x="552" y="240" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607540959547" />
   </component>
 </project>
