@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d887a68-fce0-4888-a585-1675d5dcf093" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/store/blocks/footer.jsonc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/blocks/footer.jsonc" beforeDir="false" afterPath="$PROJECT_DIR$/store/blocks/footer.jsonc" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +53,7 @@
       <workItem from="1607429117449" duration="12045000" />
       <workItem from="1607515182169" duration="14158000" />
       <workItem from="1607601804173" duration="9071000" />
-      <workItem from="1607620128702" duration="1939000" />
+      <workItem from="1607620128702" duration="2605000" />
     </task>
     <task id="LOCAL-00001" summary="Criando página com detalhes dos produtos">
       <created>1606850754774</created>
@@ -377,7 +377,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607612471553</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="Construindo uma landing customizada de busca">
+      <created>1607622197474</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1607622197474</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -403,17 +410,17 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="759" y="229" key="#JSON/0.0.1920.1040@0.0.1920.1040" timestamp="1607621151662" />
-    <state x="571" y="89" key="CommitChangelistDialog2" timestamp="1607612471015">
+    <state x="571" y="89" key="CommitChangelistDialog2" timestamp="1607622196888">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="571" y="89" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1607612471015" />
+    <state x="571" y="89" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1607622196888" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1607520477336">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1607520477336" />
-    <state x="552" y="240" key="Vcs.Push.Dialog.v2" timestamp="1607612472289">
+    <state x="552" y="240" key="Vcs.Push.Dialog.v2" timestamp="1607622198881">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="240" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607612472289" />
+    <state x="552" y="240" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607622198881" />
   </component>
 </project>
